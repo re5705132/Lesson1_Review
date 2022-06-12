@@ -1,0 +1,7 @@
+L:\שנה ב\מהט\תשפב\C#\Lesson1_Review\bin\Debug\Lesson1_Review.exe.config
+L:\שנה ב\מהט\תשפב\C#\Lesson1_Review\bin\Debug\Lesson1_Review.exe
+L:\שנה ב\מהט\תשפב\C#\Lesson1_Review\bin\Debug\Lesson1_Review.pdb
+L:\שנה ב\מהט\תשפב\C#\Lesson1_Review\obj\Debug\Lesson1_Review.csprojAssemblyReference.cache
+L:\שנה ב\מהט\תשפב\C#\Lesson1_Review\obj\Debug\Lesson1_Review.csproj.CoreCompileInputs.cache
+L:\שנה ב\מהט\תשפב\C#\Lesson1_Review\obj\Debug\Lesson1_Review.exe
+L:\שנה ב\מהט\תשפב\C#\Lesson1_Review\obj\Debug\Lesson1_Review.pdb
